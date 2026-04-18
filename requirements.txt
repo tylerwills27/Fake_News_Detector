@@ -1,0 +1,7 @@
+joblib
+matplotlib
+nltk
+numpy==1.26.4
+pandas
+PyQt6
+scikit-learn==1.6.1
