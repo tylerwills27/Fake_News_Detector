@@ -131,7 +131,7 @@ From the project root, run:
 bash
 python train_model.py "path/to/your/dataset.csv"
 
-### Application Workflow
+## Application Workflow
 
 #### Single Article
 1. User enters text or imports TXT  
