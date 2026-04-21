@@ -128,7 +128,7 @@ The `train_model.py` file allows a user to train a new Decision Tree + TF-IDF fa
 ### How to Run
 From the project root, run:
 
-```bash
+bash
 python train_model.py "path/to/your/dataset.csv"
 
 ### Application Workflow
